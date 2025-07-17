@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **VERA - AI Assistent**
 
-- 🌱 I’m currently learning **Java Javascript**
+- 🌱 I’m currently learning **Java , Javascript**
 
 - 💬 Ask me about **HTML CSS JS**
 
